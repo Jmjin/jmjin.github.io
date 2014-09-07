@@ -643,7 +643,7 @@ h1 {
 #about .left {
   display: table-cell;
   width: 40%;
-  background: url("./images/palmtree.jpg") no-repeat bottom left;
+  background: url("./images/palmtree.JPG") no-repeat bottom left;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
