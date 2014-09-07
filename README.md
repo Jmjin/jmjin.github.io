@@ -1,2 +1,1 @@
-jmjin.github.io
-===============
+My Personal Website
