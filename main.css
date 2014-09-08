@@ -904,7 +904,11 @@ h1 {
 /* Smartphones */
 @media (max-width: 480px) {
   h1 {
-    font-size: 4em;
+    font-size: 3.3em;
+  }
+
+  #header span {
+    font-size: 0.35em;
   }
 
   #about .left {
